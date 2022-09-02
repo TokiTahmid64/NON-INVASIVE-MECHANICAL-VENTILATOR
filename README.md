@@ -4,3 +4,8 @@
 
 
 Official codebase for CSE 316 term project.
+
+App link:
+https://drive.google.com/file/d/15GgS0PLU1fSbL_xzq0aJXHU8HKhq0-2y/view
+
+
