@@ -5,6 +5,9 @@
 
 Official codebase for CSE 316 term project.
 
+Demo Video:
+https://youtube.com/watch?v=_JmB29RB8R8
+
 App link:
 https://drive.google.com/file/d/15GgS0PLU1fSbL_xzq0aJXHU8HKhq0-2y/view
 
